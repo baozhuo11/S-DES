@@ -29,10 +29,10 @@
        
  # 第3关：扩展功能
        在交互界面中，选择ASCII字符加密解密按钮，则可输入ASCII编码字符串进行使用，具体显示与第一关相似。
-  加密
+ # ASCLL加密
   ![image](https://github.com/baozhuo11/S-DES/blob/main/ASCII%E5%8A%A0%E5%AF%86.png)
-  解密
-  ![image]()
+ # ASCLL解密
+  ![image](https://github.com/baozhuo11/S-DES/blob/main/ASCII%E8%A7%A3%E5%AF%86.png)
           
  # 第4关: 暴力破解
        假设你找到了使用相同密钥的明、密文对(一个或多个)，请尝试使用暴力破解的方法找到正确的密钥Key。
