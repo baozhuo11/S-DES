@@ -25,7 +25,7 @@
        测试密文：10010001
        
        测试结果如下
-  ![image]()
+  ![image](https://github.com/baozhuo11/S-DES/blob/main/%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%812.png)
        
  # 第3关：扩展功能
        在交互界面中，选择ASCII字符加密解密按钮，则可输入ASCII编码字符串进行使用，具体显示与第一关相似。
