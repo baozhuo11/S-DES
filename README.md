@@ -11,7 +11,7 @@
        测试密文：01101011
 
        加密测试结果为
-![image](https://github.com/baozhuo11/S-DES/blob/main/ASCII%E5%8A%A0%E5%AF%86.png)
+![image](https://github.com/baozhuo11/S-DES/blob/main/%E5%8A%A0%E5%AF%86.png)
        
  # 1.3  解密
        同解密相同，测试结果为
