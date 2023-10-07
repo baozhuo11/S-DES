@@ -15,7 +15,7 @@
        
  # 1.3  解密
        同解密相同，测试结果为
-![image]()
+![image](https://github.com/baozhuo11/S-DES/blob/main/%E8%A7%A3%E5%AF%86.png)
        
  # 第2关：交叉测试
        对测试明文：00111010
